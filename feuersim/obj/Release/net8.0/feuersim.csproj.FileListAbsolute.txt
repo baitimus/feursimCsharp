@@ -1,0 +1,15 @@
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\bin\Release\net8.0\feuersim.exe
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\bin\Release\net8.0\feuersim.deps.json
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\bin\Release\net8.0\feuersim.runtimeconfig.json
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\bin\Release\net8.0\feuersim.dll
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\bin\Release\net8.0\feuersim.pdb
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.AssemblyInfoInputs.cache
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.AssemblyInfo.cs
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.sourcelink.json
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.dll
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\refint\feuersim.dll
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.pdb
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\feuersim.genruntimeconfig.cache
+C:\Users\cyrus\Desktop\c#-aufgaben\feursimCsharp\feuersim\obj\Release\net8.0\ref\feuersim.dll
